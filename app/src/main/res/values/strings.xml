@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Icehockey Rules</string>
+    <string name="textCountQuestion">Question: </string>
+    <string name="textCountOutOff"> out of </string>
+    <string name="textApprQuestion">Q:</string>
+    <string name="textApprAnswer">A:</string>
+    <string name="buttonReset">Reset</string>
+    <string name="buttonSubmitAnswer">Submit Answer</string>
+</resources>
